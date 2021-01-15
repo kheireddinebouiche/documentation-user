@@ -2,6 +2,13 @@
 Colombia
 ========
 
+Webinars
+========
+Below you can find videos with a general description of the localization, how to configure it and 
+what changes were made for version 13.
+
+- `VIDEO WEBINAR OF A COMPLETE DEMO <https://youtu.be/BOzucXRUZDE>`_.
+
 Introduction
 ============
 
