@@ -1,2 +1,7 @@
 {# Global TOC of the doc #}
-{{ toctree(titles_only=True) }}
+{#
+    See: https://www.sphinx-doc.org/en/master/templating.html#toctree
+    title_only: Whether menu items for content pages (without toctree) should be hidden
+    collapse: Whether only menu items included in the breadcrumb should be rendered
+#}
+{{ toctree(titles_only=True, collapse=False)}}
